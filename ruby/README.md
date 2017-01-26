@@ -4,7 +4,7 @@
 + [First Day! **Read me!**][day1-instructions]
 
 ### Readings (65 min)
-+ Review readings from [mini-curriculum][mini],[fundamentals][fundamentals] and [week 1][prep-w1] of the
++ Review readings from [mini-curriculum][mini], [fundamentals][fundamentals] and [week 1][prep-w1] of the
   App Academy Prep course (30 min)
   + **Pay special attention to the readings on code style from week 1!**
 + Debugging
