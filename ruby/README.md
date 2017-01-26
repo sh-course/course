@@ -4,7 +4,7 @@
 + [First Day! **Read me!**][day1-instructions]
 
 ### Readings (65 min)
-+ Review readings from [week 0][prep-w0] and [week 1][prep-w1] of the
++ Review readings from [mini-curriculum][mini],[fundamentals][fundamentals] and [week 1][prep-w1] of the
   App Academy Prep course (30 min)
   + **Pay special attention to the readings on code style from week 1!**
 + Debugging
@@ -25,7 +25,8 @@
 ### :joy_cat: Pizza Lunch at App Academy :joy_cat:
 
 [day1-instructions]: https://github.com/appacademy/meta/blob/master/first-day-instructions/README.md
-[prep-w0]: https://github.com/appacademy/appacademy-prep/tree/master/w0
+[mini]: http://prepwork.appacademy.io/coding-test-2/
+[fundamentals]: readings/fundamentals.md
 [prep-w1]: https://github.com/appacademy/appacademy-prep/tree/master/w1
 [pry-and-byebug]: readings/debugger.md
 [common-error-messages]: readings/common-exceptions.md
